@@ -18,10 +18,11 @@ name = "World"
 print(f"Hello, {name}!")
 
 
-🔢 NumPy
-NumPy (Numerical Python) is a fundamental package for scientific computing in Python.
-It provides:
+🔢 NumPy:
 
+NumPy (Numerical Python) is a fundamental package for scientific computing in Python.
+
+It provides:
 A powerful N-dimensional array object
 Mathematical functions for fast operations
 Tools for integrating with C/C++ and Fortran code
@@ -38,7 +39,3 @@ Pythonimport numpy as np
 # Create a NumPy array
 arr = np.array([1, 2, 3, 4, 5])
 
-
-
-If you want, I can also make a **more visually appealing README** with badges, images, and tables so it looks professional on GitHub.  
-Do you want me to prepare that version?
